@@ -3,13 +3,12 @@
 
 ## Recommended Structure and Order
 
-### 1. Project Title / Headline  
-🌾 **AgriInsights: Agricultural Analytics Dashboard**  
+### 1. Project Title - 🌾 **AgriInsights: Agricultural Analytics Dashboard**  
 A robust, interactive Power BI dashboard designed to explore seasonal agricultural data—focusing on rainfall, temperature, humidity, and yield patterns across regions using a modern data stack built on AWS and Snowflake.
 
 ---
 
-### 2. Short Description / Purpose  
+### 2. Short Description
 AgriInsights is a cloud-powered analytics dashboard that transforms and visualizes agricultural data using AWS S3, Snowflake, and Power BI. It helps users analyze key climatic and agricultural factors across multiple seasons and locations for better planning and decision-making.
 
 ---
@@ -55,8 +54,6 @@ Key questions such as:
 - What impact does temperature or humidity have on crop yields?  
 - Are there consistent seasonal trends in specific regions?  
 
-… are difficult to answer with unstructured or static data.
-
 ---
 
 • **Goal of the Dashboard**  
@@ -72,13 +69,13 @@ To deliver a cloud-integrated, data-driven tool that:
   Shows average rainfall by year, season, crop, and location. Includes Rainfall Group filtering.
 
 - **📄 Page 2: Temperature Analysis**  
-  Tracks seasonal and yearly temperature patterns by region.
+  Tracks seasonal and yearly temperature patterns by year, season, crop, and location.
 
 - **📄 Page 3: Humidity Analysis**  
-  Displays humidity variation by season and its correlation with other factors.
+  Displays humidity variation by year, season, crop, and location.
 
 - **📄 Page 4: Yield Analysis**  
-  Analyzes area, crop prices, and rainfall to explore patterns in agricultural output.
+  Analyzes year, season, crop, and location to explore patterns in agricultural output.
 
 ---
 
