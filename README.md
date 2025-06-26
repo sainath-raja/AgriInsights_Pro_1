@@ -92,7 +92,7 @@ To deliver a cloud-integrated, data-driven tool that:
 
 ### 6. Screenshots / Demos  
 Show what the dashboard looks like.  
-- ![Rainfall Analysis]([https://github.com/yourusername/repo/assets/rainfall_analysis.png](https://github.com/sainath-raja/AgriInsights_Pro_1/blob/main/Rainfall_Analysis.png))  
-- ![Temperature Trends]([https://github.com/yourusername/repo/assets/temperature_analysis.png](https://github.com/sainath-raja/AgriInsights_Pro_1/blob/main/Temp_Analysis.png))  
-- ![Humidity Overview]([https://github.com/yourusername/repo/assets/humidity_analysis.png](https://github.com/sainath-raja/AgriInsights_Pro_1/blob/main/Humidity_Analysis.png))  
-- ![Yield Insight]([https://github.com/yourusername/repo/assets/yield_analysis.png](https://github.com/sainath-raja/AgriInsights_Pro_1/blob/main/Yeild%20Analysis.png))
+- ![Rainfall Analysis](https://github.com/sainath-raja/AgriInsights_Pro_1/blob/main/Rainfall_Analysis.png)  
+- ![Temperature Trends](https://github.com/sainath-raja/AgriInsights_Pro_1/blob/main/Temp_Analysis.png)  
+- ![Humidity Overview](https://github.com/sainath-raja/AgriInsights_Pro_1/blob/main/Humidity_Analysis.png) 
+- ![Yield Insight](https://github.com/sainath-raja/AgriInsights_Pro_1/blob/main/Yeild%20Analysis.png)
